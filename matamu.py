@@ -1,7 +1,7 @@
 1#!/usr/bin/env python3
 2#Kagak Usah Rename BY By Tai Anjing 
 3#Ddos by ZNX-TEAM
-4import random
+4import matamu
 5import socket
 6import threading
 7import os
